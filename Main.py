@@ -62,7 +62,7 @@ while menu:
             opcion = 0
         
         if opcion==8:
-            print("Desea salir del programa?")
+            print("¿Desea salir del programa?")
             while opcion==8:
                 salir = int(input("1. Si\n2. No\n"))
                 if salir == 1: 
